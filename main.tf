@@ -1,3 +1,4 @@
+# main.tf
 locals {
   config = merge(
     {

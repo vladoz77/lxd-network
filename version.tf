@@ -1,3 +1,4 @@
+# version.tf
 terraform {
   required_providers {
     lxd = {

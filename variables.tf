@@ -1,3 +1,4 @@
+# variables.tf
 variable "network" {
   description = "Конфигурация LXD bridge-сети"
   type = object({

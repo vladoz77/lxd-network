@@ -1,3 +1,4 @@
+# outputs.tf
 output "network_name" {
   description = "Имя созданной сети"
   value       = lxd_network.network.name
